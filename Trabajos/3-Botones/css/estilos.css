@@ -1,0 +1,21 @@
+.boton1{
+    background-color: brown;
+    color: aliceblue;
+}
+.buton2{
+    border-radius: 15px;
+    background-color: rgb(63, 165, 42);
+    color: aliceblue;
+    padding: 10px 20px;    
+}
+.buton3{
+    border-radius: 15px;
+    background-color: rgb(54, 92, 199);
+    padding: 10px 20px;    
+    color: aliceblue;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: cursive;
+
+}
