@@ -1,0 +1,20 @@
+input,select,button{
+    padding: 10px;
+    margin: 5px;
+}
+h1{
+    font-family: Arial, sans-serif;
+  color:  rgb(54, 92, 199);
+ 
+}
+.button{
+    border-radius: 15px;
+    background-color: rgb(18, 130, 150);
+    padding: 10px 20px;    
+    color: aliceblue;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: cursive;
+
+}
